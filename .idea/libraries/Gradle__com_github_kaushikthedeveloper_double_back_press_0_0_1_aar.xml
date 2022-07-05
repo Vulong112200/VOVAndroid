@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.kaushikthedeveloper:double-back-press:0.0.1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/5b87518d6bc65f972bf6229124d37e28/transformed/jetified-double-back-press-0.0.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/5b87518d6bc65f972bf6229124d37e28/transformed/jetified-double-back-press-0.0.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/5b87518d6bc65f972bf6229124d37e28/transformed/jetified-double-back-press-0.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/modules-2/files-2.1/com.github.kaushikthedeveloper/double-back-press/0.0.1/39499a78d10579e40716404f4b4ccca67b3afc13/double-back-press-0.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/modules-2/files-2.1/com.github.kaushikthedeveloper/double-back-press/0.0.1/ef1c6a7d582da7fa1cc6cb0acba1fd33e7b0d5c4/double-back-press-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

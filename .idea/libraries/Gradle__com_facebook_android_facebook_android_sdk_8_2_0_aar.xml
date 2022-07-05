@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.facebook.android:facebook-android-sdk:8.2.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/b858fa8bb06646aff47bf6896e500dc1/transformed/jetified-facebook-android-sdk-8.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/b858fa8bb06646aff47bf6896e500dc1/transformed/jetified-facebook-android-sdk-8.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../src/flutter/bin/caches/transforms-3/b858fa8bb06646aff47bf6896e500dc1/transformed/jetified-facebook-android-sdk-8.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/8.2.0/ce4b8d4f22ecc656dd82bbf3e2cbb3ac4ec51056/facebook-android-sdk-8.2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../src/flutter/bin/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/8.2.0/262f6b585e3be488b980feed0a0b9eb351ef72bd/facebook-android-sdk-8.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
